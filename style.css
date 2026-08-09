@@ -19,7 +19,7 @@ body {
 }
 
 .hero {
-    height: 700px;
+    height: 400px;
     background-image: url("images/Poster.png");
     background-size: cover;
     background-position: center;
