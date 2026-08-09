@@ -20,7 +20,7 @@ body {
 
 .hero {
     height: 550px;
-    background-image: url("images/banner.jpg");
+    background-image: url("images/Poster.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
